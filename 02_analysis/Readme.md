@@ -47,4 +47,4 @@ This script analyzes the sentiment of each review, classifying it as positive, n
 
 The script can be run directly:
 ```bash
-python src/02_analysis/sentiment_analyzer.py
+python 02_analysis/sentiment_analyzer.py
